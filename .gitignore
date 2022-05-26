@@ -1,0 +1,10 @@
+node_modules
+vendor
+cypress
+cypress/integration/1-getting-started
+cypress/integration/2-advanced-examples
+src/
+gulpfile.js
+package-lock.json
+package.json
+cypress.json
